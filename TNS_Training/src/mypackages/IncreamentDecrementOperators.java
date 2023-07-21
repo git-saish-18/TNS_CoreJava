@@ -1,4 +1,5 @@
-package Myproject;
+package mypackages;
+
 
 public class IncreamentDecrementOperators {
 	public static void main(String[] args) {

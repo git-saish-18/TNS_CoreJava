@@ -1,4 +1,5 @@
-package Myproject;
+package mypackages;
+
 import java.util.*;
 public class Myfirst {
 
