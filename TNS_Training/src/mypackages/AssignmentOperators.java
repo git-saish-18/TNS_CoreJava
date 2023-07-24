@@ -18,6 +18,7 @@ public class AssignmentOperators {
 		System.out.println(num2);
 		num2%=num1;
 		System.out.println(num2);
+		cin.close();
 		
 
 	}
