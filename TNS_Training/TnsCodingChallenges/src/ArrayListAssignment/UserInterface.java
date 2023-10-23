@@ -29,6 +29,7 @@ public class UserInterface  {
 		  }
 		  else
 		  {
+			  obj.sortProductList();
 			  obj.display();
 		  }
 		  break;
